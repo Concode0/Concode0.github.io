@@ -1,11 +1,11 @@
-title = "My Docs"
+title = "Concode Devlog"
 baseurl = "http://Concode0.github.io/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
 # disableKinds = ["taxonomy", "term"]
 enableEmoji = true
-enableGitInfo = false
+enableGitInfo = true
 enableRobotsTXT = true
 languageCode = "en-US"
 pagerSize = 10
