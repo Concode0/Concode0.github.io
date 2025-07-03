@@ -1,2 +1,15 @@
-# Overrides for production environment
-baseurl = "/"
+# config/production/hugo.toml
+baseURL = "https://Concode0.github.io"
+minify = true
+canonifyURLs = true
+
+# config/production/params.toml
+[analytics]
+  googleAnalytics = "G-XXXXXXXXXX"
+
+[security]
+  enableCSP = true
+
+[performance]
+  enableMinification = true
+  enableCompression = true
