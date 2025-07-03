@@ -1,2 +1,11 @@
-# Overrides for next environment
-baseurl = "http://localhost/"
+# config/next/hugo.toml
+baseURL = "http://localhost:1313"
+buildDrafts = true
+buildFuture = true
+buildExpired = true
+
+# config/next/params.toml
+[development]
+  showEditButton = true
+  showSourceCode = true
+  debugMode = true
