@@ -13,3 +13,7 @@ seo:
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
+
+# Thinking with AI
+
+Directed Acyclic Graph Sorting System using Clustering.
