@@ -59,17 +59,17 @@
 
 [[sidebar_docs]]
   name = "InerTrace"
-  pageRef = "/docs/InerTrace"
+  pageRef = "/docs/inertrace"
   weight = 50
 
 [[sidebar_docs]]
   name = "VoiceMemo"
-  pageRef = "/docs/VoiceMemo"
+  pageRef = "/docs/voicememo"
   weight = 50
 
 [[sidebar_docs]]
   name = "HAW"
-  pageRef = "/docs/Handwriting_auth"
+  pageRef = "/docs/handwriting_auth"
   weight = 50
 
 [[footer]]
