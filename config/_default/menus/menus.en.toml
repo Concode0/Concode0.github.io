@@ -72,6 +72,12 @@
    pageRef = "/docs/resources"
    weight = 30
 
+ [[sidebar_docs]]
+   name = "Projects"
+   pageRef = "/docs/Projects"
+   weight = 50
+
+
 [[footer]]
   name = "Privacy Policy"
   url = "/privacy/"

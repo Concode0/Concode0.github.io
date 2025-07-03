@@ -16,6 +16,13 @@
     </url>
     
     <url>
+      <loc>http://localhost:1313/docs/inertrace/</loc>
+      <lastmod>2025-07-03T21:13:08+09:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
       <loc>http://localhost:1313/docs/resources/</loc>
       <lastmod>2025-07-03T20:27:37+09:00</lastmod>
       <changefreq>monthly</changefreq>
