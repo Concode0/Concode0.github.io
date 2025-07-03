@@ -1,11 +1,11 @@
 ---
-title: "Thinker"
+title: "Handwriting_auth"
 description: ""
 summary: ""
-date: 2025-07-03T21:57:26+09:00
-lastmod: 2025-07-03T21:57:26+09:00
+date: 2025-07-03T22:04:35+09:00
+lastmod: 2025-07-03T22:04:35+09:00
 draft: false
-weight: 999
+weight: 800
 toc: true
 seo:
   title: "" # custom title (optional)
@@ -14,6 +14,8 @@ seo:
   noindex: false # false (default) or true
 ---
 
-# Thinking with AI
+Simple Project Introduction
 
-Directed Acyclic Graph Sorting System using Clustering.
+## Handwriting Auth
+
+한국어
